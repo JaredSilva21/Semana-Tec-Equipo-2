@@ -1,6 +1,6 @@
 # Semana-Tec-Equipo-2
 
-##Integrantes##
+## Integrantes
 Jared Andres Silva Villa - A01068244
 
 # Introduccion
