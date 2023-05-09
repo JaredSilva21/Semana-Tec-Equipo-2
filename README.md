@@ -1,7 +1,7 @@
 # Semana-Tec-Equipo-2
 
 ## Integrantes
-Jared Andres Silva Villa - A01068244
+Jared Andres Silva Villa - A01068244  
 Rafael Romo Muñoz - A01643137
 
 # Introduccion
