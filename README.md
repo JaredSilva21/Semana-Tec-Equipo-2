@@ -2,7 +2,7 @@
 
 ## Integrantes
 Jared Andres Silva Villa - A01068244-  
-Rafael Romo Muñoz - A01643137
+/Rafael Romo Muñoz - A01643137 
 Maximiliano Ramirez Casillas - A01642648
 Fernando Menchaca Villanueva - A01643243
 
